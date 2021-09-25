@@ -1,0 +1,22 @@
+body {
+    background-color: #dcbcac;
+    color: white;
+}
+
+nav {
+    background-color: #4B533A;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.container{
+    margin: auto;
+    margin-top: 50px;
+    height: 50vh;
+    width: 50vh;
+    border: 2px solid #EFE9DB;
+    box-shadow: -12px 12px 15px 5px rgba(255, 255, 255, .4);
+    text-align: center;
+}
