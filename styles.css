@@ -6,7 +6,8 @@ body {
 }
 
 nav {
-    background-color: #103415;
+    background-color: #13432c;
+    
 }
 
 .navbar-brand{
@@ -38,7 +39,7 @@ a{
     font-size: 1.5em;
     padding-left: 1em;
     padding-right: 1em;
-    margin-left: 45%;
+    margin-left: 46%;
     background-color: #7cbc2e; 
     border: none;
     color: white;
@@ -53,7 +54,6 @@ img.small{
     padding: 1em;
   
 }
-
 
 .nutritionFacts{
     text-align: left; 
