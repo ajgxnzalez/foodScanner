@@ -1,0 +1,44 @@
+body {
+    background-color:#ffc9a9;
+    color: rgb(52, 39, 31);
+    font-family: Optima, sans-serif;
+    font-size: 1.2em;
+}
+
+nav {
+    background-color: #103415;
+}
+
+.navbar-brand{
+    font-size: 1.7em;
+    color: white !important;
+}
+
+.container{
+    margin: auto;
+    margin-top: 50px;
+    height: 55vh;
+    width: 55vh;
+    border: 2px solid #7c7666;
+    padding-top: 50px;
+    box-shadow: -10px 12px 15px 10px rgba(159, 117, 117, 0.3);
+    text-align: center;
+}
+p{
+   margin:2em;
+}
+a{
+    color: white !important;
+}
+button{
+    font-size: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-left: 43%;
+}
+img.small{
+    max-width: 15%;
+    padding: 1em;
+  
+}
+
