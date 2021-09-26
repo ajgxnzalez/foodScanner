@@ -39,14 +39,12 @@ a{
     font-size: 1.5em;
     padding-left: 1em;
     padding-right: 1em;
-    margin-left: 46%;
     background-color: #7cbc2e; 
     border: none;
     color: white;
-
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
 
 }
 img.small{
